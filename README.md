@@ -5,12 +5,22 @@
 [CodePen](https://codepen.io)  
 [Codesandbox.io](https://codesandbox.io)  
 
+## Editors, IDEs and Bash
+
+[ATOM](https://atom.io) IDE
+
+[BAT](https://github.com/sharkdp/bat) Syntax highlighting
+
 ## Backend Development
 
 [Content Compression with Rack Deflater](https://thoughtbot.com/blog/content-compression-with-rack-deflater)
 
+[Engineering Principles](https://monzo.com/blog/2018/06/29/engineering-principles/)
+
 [Exercism.io](https://exercism.io)   
 Practice exercises through CLI.
+
+[Extracting Text From Images Using Ruby](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby)
 
 [Homebrew Manual](https://docs.brew.sh/Manpage)
 
@@ -27,7 +37,14 @@ Affirmations with Rails.
 [CertBot](https://certbot.eff.org/)   
 Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.
 
+[Certificate check](https://crt.sh)
+
 ## Frontend Development
+
+[Advanced Positioning - static, relative, absolute, and fixed positioning](https://internetingishard.com/html-and-css/advanced-positioning/#positioned-elements)
+
+[Browserlists](https://github.com/browserslist/browserslist)  
+Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env 
 
 [Controlling Color with Sass Color Functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
 
@@ -36,16 +53,34 @@ Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's E
 [frontendfoc.us](https://frontendfoc.us/)  
 A weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.
 
+[Front End UI Testing Process](https://medium.com/minitheory-design/front-end-ui-testing-process-f5f746739376)
+
 [JSON Web Tokens](https://jwt.io/)  
 JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 
 [Get Head](https://gethead.info/) A free guide to <head> elements
+
+[Hardening Website Security](https://int64software.com/blog/2018/11/05/hardening-website-security-part-1-http-security-headers)
+
+[Headless CMS](https://headlesscms.org/)
+
+[How we made form-filling more fun](https://medium.com/swlh/beyond-likert-scales-how-we-made-form-filling-more-fun-4ae1e46df44f)
 
 [Blob Maker](https://www.blobmaker.app)  
 Generate SVG shapes in the browser for download.
 
 [Logical styling based on the number of given elements](https://css-tricks.com/solved-with-css-logical-styling-based-on-the-number-of-given-elements)  
 Understand this `div:first-child:nth-last-child(n + x)` in CSS?
+
+[Markdown in Rails](https://codepen.io/asommer70/post/markdown-in-rails-yes-please)
+
+[Modern Frontend in Rails](https://evilmartians.com/chronicles/evil-front-part-1)
+
+[Responsive Typography](https://codepen.io/MadeByMike/pen/YPJJYv)
+
+[Using Prettier and Husky to Make Your Commits Safe](https://medium.com/@bartwijnants/using-prettier-and-husky-to-make-your-commits-save-2960f55cd351)
+
+[Tint and Shade functions](https://css-tricks.com/snippets/sass/tint-shade-functions/)
 
 [Visual Regression Testing](https://visualregressiontesting.com)
 
@@ -84,6 +119,10 @@ A collection of working, practical examples of using service workers in modern w
 
 [Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
 
+## Testing
+
+[Cypress](https://www.cypress.io/)
+
 ## Development for schools
 
 [CS First](https://csfirst.withgoogle.com/s/en/home)   
@@ -103,7 +142,11 @@ Join over 1 million teachers, parents, and students in creating fun projects wit
 
 ## Design
 
+[5 Principles of Cuteness in Web Design](https://www.webdesignerdepot.com/2018/11/5-principles-of-cuteness-in-web-design)
+
 [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
+[Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
 
 [Atlaskit](https://atlaskit.atlassian.com/)   
 Atlassian's official UI library, built according to the Atlassian Design Guidelines.
@@ -118,7 +161,11 @@ Atlassian's official UI library, built according to the Atlassian Design Guideli
 
 [Google Ventures: Sprint](http://www.gv.com/sprint/)
 
+[Google's Productivity Expert](https://www.blog.google/inside-google/googlers/she-word/our-do-list-interview-googles-productivity-expert/)
+
 [How LEGO run design sprints](https://uxplanet.org/how-lego-run-design-sprints-at-scale-47bf56b785f7)
+
+[How to Add Innovation to UI Design Patterns](https://www.webdesignerdepot.com/2018/11/how-to-add-innovation-to-ui-design-patterns)
 
 [How to get users hooked on your interfaces](https://medium.muz.li/how-to-get-users-hooked-on-your-interfaces-f8fd89b913b3)
 
@@ -152,6 +199,8 @@ Free vector art illustrations.
 [Girls Make Games](http://girlsmakegames.com)
 
 ## AI and Machine learning
+
+[How to Prototype Voice Experiences that Delight Users](https://medium.com/thinking-design/ask-a-uxpert-how-to-prototype-voice-experiences-that-delight-users-847ef2d0b5fc)
 
 [Stealth](https://hellostealth.org)  
 Stealth is an open source Ruby framework for voice and text chatbots.
